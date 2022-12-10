@@ -1,2 +1,2 @@
-# elaineamericano-dio-desafio-github-primeiro-repositrio
+#  Repositorio do  Desafio de Projeto sobre o Git/GitHub da DIO
 Desafio de Projeto Git/GitHub
